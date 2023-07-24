@@ -1,0 +1,5 @@
+```query
+
+content: [Function →](.md)
+
+```
